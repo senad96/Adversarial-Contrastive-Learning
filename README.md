@@ -4,7 +4,7 @@ Repository for the poject : Towards Robust Neural Networks.
 
 # Abstract 
 
-Abstract—Deep neural networks have achieved amazing results in several tasks. However, recent works have shown how these 
+Deep neural networks have achieved amazing results in several tasks. However, recent works have shown how these 
 models are vulnerable to adversarial examples, which pose 
 questions about their safety in critical applications. In this paper
 we want to show which are the basic techniques used to generate
