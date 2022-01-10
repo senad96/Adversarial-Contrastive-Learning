@@ -21,6 +21,6 @@ training using contrastive learning, in which a pre-training step
 has shown to increase neural networks’ robustness.
 
 
-# CODE 
+# Code
 
 The code is available on the jupyter notebook.
