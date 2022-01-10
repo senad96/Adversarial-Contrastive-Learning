@@ -19,3 +19,8 @@ makes the model more robust to PGD attacks. Furthermore, we
 include in this analysis a new recent approach of adversarial
 training using contrastive learning, in which a pre-training step
 has shown to increase neural networks’ robustness.
+
+
+# CODE 
+
+The code is available on the jupyter notebook.
